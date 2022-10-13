@@ -1,3 +1,17 @@
 h1{
-    color: white;
+    color: rgba(240, 213, 209, 0.986);
 }
+p{
+    font-style: italic;
+    font-weight: bold;
+}
+.bg-img {
+    background-image: linear-gradient(to right,rgba(9, 255, 0, 0.322), rgba(0, 255, 42, 0.356)), url(./image/herdbackgroud.jpg);
+    height: 100vh;
+    width: 100vw;
+    position: relative;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  
