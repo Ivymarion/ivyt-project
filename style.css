@@ -1,12 +1,13 @@
+
 h1{
-    color: rgba(240, 213, 209, 0.986);
+    color: rgba(4, 68, 165, 0.781);
 }
 p{
     font-style: italic;
     font-weight: bold;
 }
 .bg-img {
-    background-image: linear-gradient(to right,rgba(9, 255, 0, 0.322), rgba(0, 255, 42, 0.356)), url(./image/herdbackgroud.jpg);
+    background-image: linear-gradient(to bottom, rgba(217, 235, 233, 0.966), rgba(3, 153, 146, 0.527)), url(/boran\ cows_n.jpg);
     height: 100vh;
     width: 100vw;
     position: relative;
@@ -14,4 +15,53 @@ p{
     background-repeat: no-repeat;
     background-size: cover;
   }
+.d-block{
+    height: 60vh;
+}
+.contact{
+    height: rem;
+}
+.fa {
+    padding: 20px;
+    font-size: 30px;
+    width: 50px;
+    text-align: center;
+    text-decoration: none;
+    margin: 5px 2px;
+  }
+  
+  .fa:hover {
+      opacity: 0.7;
+  }
+  
+  .fa-facebook {
+    background: #3B5998;
+    color: white;
+  }
+  
+  .fa-twitter {
+    background: #55ACEE;
+    color: white;
+  }
+  
+  .fa-google {
+    background: #dd4b39;
+    color: white;
+  }
+  
+  .fa-linkedin {
+    background: #007bb5;
+    color: white;
+  }
+  
+  .fa-youtube {
+    background: #bb0000;
+    color: white;
+  }
+  
+  .fa-instagram {
+    background: #125688;
+    color: white;
+  }
+
   
