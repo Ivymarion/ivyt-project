@@ -127,7 +127,20 @@ p{
     color: white;
   }
   
+  .fa-linkedin {
+    background: #007bb5;
+    color: white;
+  }
   
+  .fa-youtube {
+    background: #bb0000;
+    color: white;
+  }
+  
+  .fa-instagram {
+    background: #125688;
+    color: white;
+  }
   
 
   .footer{
