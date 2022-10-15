@@ -143,4 +143,10 @@ p{
   }
   
 
-  
+  .footer{
+    display: flex;
+    background-color: #55eed4;
+  }
+  .footer div{
+    margin: 2rem;
+  }
