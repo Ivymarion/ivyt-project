@@ -10,6 +10,8 @@ IVY TANTAINE
  ![Screenshot from 2022-10-15 14-54-40](https://user-images.githubusercontent.com/111879768/195985056-e1ed61a8-ee2b-480b-bc88-83477aaa4f3d.png)
 
  - link 2
+ ![Screenshot from 2022-10-15 16-06-35](https://user-images.githubusercontent.com/111879768/195988097-06d91c79-9436-4918-bb0f-9de6f5c303f9.png)
+
  ********
  ## SetUp Instruction
  ### Requirements
@@ -27,20 +29,11 @@ IVY TANTAINE
  - Push to the branch (git push origin improve-app)
  - Create a Pull request
  * Open the folder location on terminal and use the following command to run app:
- ## How To Run It
- >  $ pip install -r requirements.txt
- To install all requirements
- > $ python3 manage.py runserver
- Then run server with the above command
- *****
+
  ## Live Link
  Or you can access the web application directly via this [LINK.](link.com/)
  *****
- ## Dependencies
- - Package Name
- - Package Name
- - Package Name
- - Package Name
+ ##
  *****
  ## Technologies Used
  1. HTML
@@ -50,7 +43,7 @@ IVY TANTAINE
  5. JavaScript
  *****
  ## Contact Information
- * Email : example@gmail.com
+ * Email : ivymarion2013@gmail.com
  *****
  ## [License](LICENSE)
  MIT License
